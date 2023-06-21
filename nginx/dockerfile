@@ -1,1 +1,1 @@
-FROM bitnami/nginx
+FROM nginx
